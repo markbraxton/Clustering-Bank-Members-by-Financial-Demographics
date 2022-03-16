@@ -1,4 +1,4 @@
-# Unsupervised-Clustering-Project
+Clustering Bank Members by Financial Demographics
 
 Academic Project on Unsupervised Learning
 
